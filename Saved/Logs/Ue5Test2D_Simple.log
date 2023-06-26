@@ -880,3 +880,23 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.06.26-12.07.58:859][150]LogFileHelpers: 没有需要保存的新变更！
 [2023.06.26-12.07.58:868][150]AssetCheck: New page: 资产保存：NewMapEmpty
 [2023.06.26-12.07.58:868][150]LogContentValidation: Display: 正在验证World /Game/Maps/NewMapEmpty.NewMapEmpty
+[2023.06.26-12.08.35:968][724]LogViewport: Scene viewport resized to 957x902, mode Windowed.
+[2023.06.26-12.08.36:001][726]LogViewport: Scene viewport resized to 928x902, mode Windowed.
+[2023.06.26-12.08.36:033][728]LogViewport: Scene viewport resized to 880x902, mode Windowed.
+[2023.06.26-12.08.36:065][730]LogViewport: Scene viewport resized to 837x902, mode Windowed.
+[2023.06.26-12.08.36:098][732]LogViewport: Scene viewport resized to 829x902, mode Windowed.
+[2023.06.26-12.09.59:908][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMapEmpty" FILE="F:/Projects/Unity Projects/Test2D/UE5Test/Content/Maps/NewMapEmpty.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.26-12.09.59:914][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.06.26-12.09.59:920][664]LogSavePackage: Moving output files for package: /Game/Maps/NewMapEmpty
+[2023.06.26-12.09.59:920][664]LogSavePackage: Moving 'F:/Projects/Unity Projects/Test2D/UE5Test/Saved/NewMapEmptyD16D58694836F24531A0F6B17750E705.tmp' to 'F:/Projects/Unity Projects/Test2D/UE5Test/Content/Maps/NewMapEmpty.umap'
+[2023.06.26-12.09.59:926][664]LogFileHelpers: 没有需要保存的新变更！
+[2023.06.26-12.09.59:935][664]AssetCheck: New page: 资产保存：NewMapEmpty
+[2023.06.26-12.09.59:935][664]LogContentValidation: Display: 正在验证World /Game/Maps/NewMapEmpty.NewMapEmpty
+[2023.06.26-12.10.43:774][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMapEmpty" FILE="F:/Projects/Unity Projects/Test2D/UE5Test/Content/Maps/NewMapEmpty.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.26-12.10.43:779][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2023.06.26-12.10.43:784][643]LogSavePackage: Moving output files for package: /Game/Maps/NewMapEmpty
+[2023.06.26-12.10.43:785][643]LogSavePackage: Moving 'F:/Projects/Unity Projects/Test2D/UE5Test/Saved/NewMapEmpty3E5C8F3140A38F6335327EB7316CC4B7.tmp' to 'F:/Projects/Unity Projects/Test2D/UE5Test/Content/Maps/NewMapEmpty.umap'
+[2023.06.26-12.10.43:790][643]LogFileHelpers: 没有需要保存的新变更！
+[2023.06.26-12.10.43:797][643]AssetCheck: New page: 资产保存：NewMapEmpty
+[2023.06.26-12.10.43:797][643]LogContentValidation: Display: 正在验证World /Game/Maps/NewMapEmpty.NewMapEmpty
+[2023.06.26-12.10.45:077][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
